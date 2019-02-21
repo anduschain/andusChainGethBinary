@@ -1,5 +1,17 @@
 # AndusChain Binary Download
 
+AndusChain TestNet binary now version is 0.6.0-unstable.
+
+## WINDOWS
+>windows/geth-windows-4.0-386-0.6.0-20190221.zip
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-0.6.0-20190221.zip)
+>windows/geth-windows-4.0-amd64-0.6.0-20190221.zip
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-0.6.0-20190221.zip)
+
+## MAC
+>mac/geth-darwin-10.6-amd64-0.6.0-20190221.tar.gz
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-0.6.0-20190221.tar.gz)
+
 ## LINUX
 >linux/geth-linux-386-0.6.0-20190221.tar.gz
 - [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-386-0.6.0-20190221.tar.gz)
@@ -18,12 +30,3 @@
 >linux/geth-linux-mips64le-0.6.0-20190221.tar.gz
 - [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-mips64le-0.6.0-20190221.tar.gz)
 
-## WINDOWS
->windows/geth-windows-4.0-386-0.6.0-20190221.zip
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-0.6.0-20190221.zip)
->windows/geth-windows-4.0-amd64-0.6.0-20190221.zip
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-0.6.0-20190221.zip)
-
-## MAC
->mac/geth-darwin-10.6-amd64-0.6.0-20190221.tar.gz
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-0.6.0-20190221.tar.gz)
