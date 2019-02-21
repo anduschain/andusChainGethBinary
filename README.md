@@ -4,7 +4,7 @@ AndusChain TestNet binary now version is 0.6.0-unstable.
 
 ## Runing AndusChain Geth
 
-if you see find geth option, type you ```geth -h```.
+if you see find geth option, type you command ```geth -h```.
 
 geth --rpc --rpcaddr "0.0.0.0" --rpcport (customport) --rpccorsdomain "*" --verbosity 6 --rpcapi "admin, db, eth, debug, miner, net, shh, txpool, personal, web3" --port (customport) --clientPort (customport)
 
