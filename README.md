@@ -45,6 +45,12 @@ defaultPort
 >linux/geth-linux-mips64le-0.6.0-20190221a.tar.gz
 - [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-mips64le-0.6.0-20190221a.tar.gz)
 
-##STATIC-NODE.JSON
+### STATIC-NODE.JSON
+> static-node.json
 - [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/staic-node.json)
-staic-node.json file should be located in datadir(default ~/.AndusChain) 
+static-node.json file should be located in datadir(default ~/.AndusChain)
+static-node.json을 다운받아 datadir(기본 ~/.AndusChain)폴더에 지정해놓습니다.
+Geth를 실행하면서 기본적으로 addPeer를 해놓아야 하는 노드들의 정보가 저장되어있습니다.
+
+
+
