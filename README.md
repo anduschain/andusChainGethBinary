@@ -15,7 +15,7 @@ defaultInfo
 defaultPort
 - geth : 30303
 - rpc : 8545
-- fair client port : 500002
+- fair client port : 50002
 
 ### WINDOWS
 >windows/geth-windows-4.0-386-0.6.0-20190221.zip
