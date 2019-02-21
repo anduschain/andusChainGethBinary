@@ -45,3 +45,6 @@ defaultPort
 >linux/geth-linux-mips64le-0.6.0-20190221a.tar.gz
 - [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-mips64le-0.6.0-20190221a.tar.gz)
 
+##STATIC-NODE.JSON
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/staic-node.json)
+staic-node.json file should be located in datadir(default ~/.AndusChain) 
