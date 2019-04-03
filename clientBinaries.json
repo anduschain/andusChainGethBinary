@@ -9,7 +9,7 @@
               "url":
                 "https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-amd64-anduschain-0.6.3-20190403a.tar.gz",
               "type": "tar",
-              "md5": "750961c09468642c4afbb0eb5dd890b9",
+              "md5": "ba95897a8d081a84b1ea2f00a0c4e958",
               "bin": "geth-linux-amd64-anduschain-0.6.3-20190403a/geth"
             },
             "bin": "geth",
@@ -25,7 +25,7 @@
               "url":
                 "https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-386-anduschain-0.6.3-20190403a.tar.gz",
               "type": "tar",
-              "md5": "0bffad98ed40b19c830e7601581ce920",
+              "md5": "88e9d6347aec06e9a7d9b98c30c37954",
               "bin": "geth-linux-386-anduschain-0.6.3-20190403a/geth"
             },
             "bin": "geth",
@@ -43,7 +43,7 @@
               "url":
                 "https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-anduschain-0.6.3-20190403a.tar.gz",
               "type": "tar",
-              "md5": "d70a81ed3eae86266251038ad48ed3db",
+              "md5": "f165563444ce53d9480c27e3aa47c9fd",
               "bin": "geth-darwin-10.6-amd64-anduschain-0.6.3-20190403a/geth"
             },
             "bin": "geth",
@@ -61,7 +61,7 @@
               "url":
                 "https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-anduschain-0.6.3-20190403a.zip",
               "type": "zip",
-              "md5": "6d0e864ff998abb8fbcd1396af365630",
+              "md5": "4d113ef21fcc638955350df51e725fe5",
               "bin": "geth-windows-4.0-amd64-anduschain-0.6.3-20190403a\\geth.exe"
             },
             "bin": "geth.exe",
@@ -77,7 +77,7 @@
               "url":
                 "https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-anduschain-0.6.3-20190403a.zip",
               "type": "zip",
-              "md5": "4df3f957d765939b295701fb217236db",
+              "md5": "c9b1559a0ee26422f88c05b9a64d2cdb",
               "bin": "geth-windows-4.0-386-anduschain-0.6.3-20190403a\\geth.exe"
             },
             "bin": "geth.exe",
