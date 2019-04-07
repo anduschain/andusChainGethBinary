@@ -13,25 +13,25 @@ defaultInfo
 - networkID :3355
 
 defaultPort
-- geth : 30303
+- geth : 50505
 - rpc : 8545
 - fair client port : 50002
 
 ### WINDOWS
->windows/geth-windows-4.0-386-anduschain-0.6.3-20190404a.zip
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-anduschain-0.6.3-20190404a.zip)
->windows/geth-windows-4.0-amd64-anduschain-0.6.3-20190404a.zip
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-anduschain-0.6.3-20190404a.zip)
+>windows/geth-windows-4.0-386-anduschain-0.6.4-20190407a.zip
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-anduschain-0.6.4-20190407a.zip)
+>windows/geth-windows-4.0-amd64-anduschain-0.6.4-20190407a.zip
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-anduschain-0.6.4-20190407a.zip)
 
 ### MAC
->mac/geth-darwin-10.6-amd64-anduschain-0.6.3-20190404a.tar.gz
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-anduschain-0.6.3-20190404a.tar.gz)
+>mac/geth-darwin-10.6-amd64-anduschain-0.6.4-20190407a.tar.gz
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-anduschain-0.6.4-20190407a.tar.gz)
 
 #### LINUX
->linux/geth-linux-386-anduschain-0.6.3-20190404a.tar.gz
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-386-anduschain-0.6.3-20190404a.tar.gz)
->linux/geth-linux-amd64-anduschain-0.6.3-20190404a.tar.gz
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-amd64-anduschain-0.6.3-20190404a.tar.gz)
+>linux/geth-linux-386-anduschain-0.6.4-20190407a.tar.gz
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-386-anduschain-0.6.4-20190407a.tar.gz)
+>linux/geth-linux-amd64-anduschain-0.6.4-20190407a.tar.gz
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-amd64-anduschain-0.6.4-20190407a.tar.gz)
 
 ### STATIC-NODE.JSON
 > static-node.json
