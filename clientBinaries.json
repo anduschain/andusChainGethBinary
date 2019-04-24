@@ -1,7 +1,7 @@
 {
   "clients": {
     "Geth": {
-      "version": "0.6.5",
+      "version": "0.6.6",
       "platforms": {
         "linux": {
           "x64": {
@@ -16,7 +16,7 @@
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.5"]
+                "output": ["Geth", "0.6.6"]
               }
             }
           },
@@ -32,7 +32,7 @@
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.5"]
+                "output": ["Geth", "0.6.6"]
               }
             }
           }
@@ -50,7 +50,7 @@
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.5"]
+                "output": ["Geth", "0.6.6"]
               }
             }
           }
@@ -68,7 +68,7 @@
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.5"]
+                "output": ["Geth", "0.6.6"]
               }
             }
           },
@@ -84,7 +84,7 @@
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.5"]
+                "output": ["Geth", "0.6.6"]
               }
             }
           }
