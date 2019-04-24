@@ -43,7 +43,7 @@
               "url":
                 "https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-anduschain-0.6.6-20190424b.tar.gz",
               "type": "tar",
-              "md5": "7629e5e7c73a3723c5bb77a444eedfed",
+              "md5": "b5ca196e12f45280ff80ebb9b8f80f0b",
               "bin": "geth-darwin-10.6-amd64-anduschain-0.6.6-20190424b/geth"
             },
             "bin": "geth",
@@ -61,7 +61,7 @@
               "url":
                 "https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-anduschain-0.6.6-20190424b.zip",
               "type": "zip",
-              "md5": "3b519abe837d9c373c8b120705f714c7",
+              "md5": "7629e5e7c73a3723c5bb77a444eedfed",
               "bin": "geth-windows-4.0-amd64-anduschain-0.6.6-20190424b\\geth.exe"
             },
             "bin": "geth.exe",
