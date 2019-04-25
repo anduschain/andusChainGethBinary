@@ -18,20 +18,20 @@ defaultPort
 - fair client port : 50002
 
 ### WINDOWS
->windows/geth-windows-4.0-386-anduschain-0.6.8-anduschain-unstable-3c7dd54.zip
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-anduschain-0.6.8-anduschain-unstable-3c7dd54.zip)
->windows/geth-windows-4.0-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd54.zip
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd54.zip)
+>windows/geth-windows-4.0-386-anduschain-0.6.8-anduschain-unstable-3c7dd541.zip
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-anduschain-0.6.8-anduschain-unstable-3c7dd541.zip)
+>windows/geth-windows-4.0-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd541.zip
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd541.zip)
 
 ### MAC
->mac/geth-darwin-10.6-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd54.tar.gz
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd54.tar.gz)
+>mac/geth-darwin-10.6-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd541.tar.gz
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd541.tar.gz)
 
 #### LINUX
->linux/geth-linux-386-anduschain-0.6.8-anduschain-unstable-3c7dd54.tar.gz
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-386-anduschain-0.6.8-anduschain-unstable-3c7dd54.tar.gz)
->linux/geth-linux-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd54.tar.gz
-- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd54.tar.gz)
+>linux/geth-linux-386-anduschain-0.6.8-anduschain-unstable-3c7dd541.tar.gz
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-386-anduschain-0.6.8-anduschain-unstable-3c7dd541.tar.gz)
+>linux/geth-linux-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd541.tar.gz
+- [Download] (https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-amd64-anduschain-0.6.8-anduschain-unstable-3c7dd541.tar.gz)
 
 ### STATIC-NODE.JSON
 > static-node.json
