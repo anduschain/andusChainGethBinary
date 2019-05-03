@@ -1,38 +1,38 @@
 {
   "clients": {
     "Geth": {
-      "version": "0.6.10",
+      "version": "0.6.11",
       "platforms": {
         "linux": {
           "x64": {
             "download": {
               "url":
-                "https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-amd64-anduschain-0.6.10-anduschain-unstable.tar.gz",
+                "https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-amd64-anduschain-0.6.11-anduschain-unstable.tar.gz",
               "type": "tar",
-              "md5": "751fe756e7674d2f6e503b7e1ec3b107",
-              "bin": "geth-linux-amd64-anduschain-0.6.10-anduschain-unstable/geth"
+              "md5": "cfe886537b4dfa244f1272de8a809499",
+              "bin": "geth-linux-amd64-anduschain-0.6.11-anduschain-unstable/geth"
             },
             "bin": "geth",
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.10"]
+                "output": ["Geth", "0.6.11"]
               }
             }
           },
           "ia32": {
             "download": {
               "url":
-                "https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-386-anduschain-0.6.10-anduschain-unstable.tar.gz",
+                "https://github.com/anduschain/andusChainGethBinary/raw/master/linux/geth-linux-386-anduschain-0.6.11-anduschain-unstable.tar.gz",
               "type": "tar",
-              "md5": "82d1a22c304874dd3d3005b0dda42920",
-              "bin": "geth-linux-386-anduschain-0.6.10-anduschain-unstable/geth"
+              "md5": "6b1b20651dcead52345a9c167ddafc1c",
+              "bin": "geth-linux-386-anduschain-0.6.11-anduschain-unstable/geth"
             },
             "bin": "geth",
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.10"]
+                "output": ["Geth", "0.6.11"]
               }
             }
           }
@@ -41,16 +41,16 @@
           "x64": {
             "download": {
               "url":
-                "https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-anduschain-0.6.10-anduschain-unstable.tar.gz",
+                "https://github.com/anduschain/andusChainGethBinary/raw/master/mac/geth-darwin-10.6-amd64-anduschain-0.6.11-anduschain-unstable.tar.gz",
               "type": "tar",
-              "md5": "0f65467c23dfb03f3f4e39fe1eafbe73",
-              "bin": "geth-darwin-10.6-amd64-anduschain-0.6.10-anduschain-unstable/geth"
+              "md5": "039d12553b4f40f50938d8d22f1016bf",
+              "bin": "geth-darwin-10.6-amd64-anduschain-0.6.11-anduschain-unstable/geth"
             },
             "bin": "geth",
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.10"]
+                "output": ["Geth", "0.6.11"]
               }
             }
           }
@@ -59,32 +59,32 @@
           "x64": {
             "download": {
               "url":
-                "https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-anduschain-0.6.10-anduschain-unstable.zip",
+                "https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-amd64-anduschain-0.6.11-anduschain-unstable.zip",
               "type": "zip",
-              "md5": "cd698d90c7c38ad86661f185b599d23d",
-              "bin": "geth-windows-4.0-amd64-anduschain-0.6.10-anduschain-unstable\\geth.exe"
+              "md5": "0212d724756369ea720a16303afb8304",
+              "bin": "geth-windows-4.0-amd64-anduschain-0.6.11-anduschain-unstable\\geth.exe"
             },
             "bin": "geth.exe",
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.10"]
+                "output": ["Geth", "0.6.11"]
               }
             }
           },
           "ia32": {
             "download": {
               "url":
-                "https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-anduschain-0.6.10-anduschain-unstable.zip",
+                "https://github.com/anduschain/andusChainGethBinary/raw/master/windows/geth-windows-4.0-386-anduschain-0.6.11-anduschain-unstable.zip",
               "type": "zip",
-              "md5": "29940d916ac926daeb01deb3d6b54af5",
-              "bin": "geth-windows-4.0-386-anduschain-0.6.10-anduschain-unstable\\geth.exe"
+              "md5": "479430cbfecd48d7bd3db09e27b7b79e",
+              "bin": "geth-windows-4.0-386-anduschain-0.6.11-anduschain-unstable\\geth.exe"
             },
             "bin": "geth.exe",
             "commands": {
               "sanity": {
                 "args": ["version"],
-                "output": ["Geth", "0.6.10"]
+                "output": ["Geth", "0.6.11"]
               }
             }
           }
