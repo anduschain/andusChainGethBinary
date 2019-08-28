@@ -6,41 +6,41 @@
       "linux": {
         "x64": {
           "download": {
-            "url": "https://github.com/anduschain/andusChainGethBinary/blob/deb/linux/godaon-linux-amd64-0.6.12.tar.gz",
+            "url": "https://github.com/anduschain/andusChainGethBinary/blob/deb/linux/godaon-linux-amd64.tar.gz",
             "type": "tar",
-            "bin": "godaon-linux-amd64-0.6.12/godaon"
+            "bin": "godaon-linux-amd64/godaon"
           }
         },
         "ia32": {
           "download": {
-            "url": "https://github.com/anduschain/andusChainGethBinary/raw/deb/linux/godaon-linux-386-0.6.12.tar.gz",
+            "url": "https://github.com/anduschain/andusChainGethBinary/raw/deb/linux/godaon-linux-386.tar.gz",
             "type": "tar",
-            "bin": "godaon-linux-386-0.6.12/godaon"
+            "bin": "godaon-linux-386/godaon"
           }
         }
       },
       "mac": {
         "x64": {
           "download": {
-            "url": "https://github.com/anduschain/andusChainGethBinary/raw/deb/mac/godaon-darwin-10.6-amd64-0.6.12.tar.gz",
+            "url": "https://github.com/anduschain/andusChainGethBinary/raw/deb/mac/godaon-darwin-10.6-amd64.tar.gz",
             "type": "tar",
-            "bin": "godaon-darwin-10.6-amd64-0.6.12/godaon"
+            "bin": "godaon-darwin-10.6-amd64/godaon"
           }
         }
       },
       "win": {
         "x64": {
           "download": {
-            "url": "https://github.com/anduschain/andusChainGethBinary/raw/deb/windows/godaon-windows-4.0-amd64-0.6.12.zip",
+            "url": "https://github.com/anduschain/andusChainGethBinary/raw/deb/windows/godaon-windows-4.0-amd64.zip",
             "type": "zip",
-            "bin": "godaon-windows-4.0-amd64-0.6.12\\godaon.exe"
+            "bin": "godaon-windows-4.0-amd64\\godaon.exe"
           }
         },
         "ia32": {
           "download": {
-            "url": "https://github.com/anduschain/andusChainGethBinary/raw/deb/windows/godaon-windows-4.0-386-0.6.12.zip",
+            "url": "https://github.com/anduschain/andusChainGethBinary/raw/deb/windows/godaon-windows-4.0-386.zip",
             "type": "zip",
-            "bin": "godaon-windows-4.0-386-0.6.12\\godaon.exe"
+            "bin": "godaon-windows-4.0-386\\godaon.exe"
           }
         }
       }
