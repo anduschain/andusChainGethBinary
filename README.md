@@ -1,6 +1,6 @@
 # AndusChain Binary Download
 
-AndusChain TestNet binary now version is 0.6.9-anduschain-unstable.
+AndusChain TestNet binary now version is 0.6.12-anduschain-unstable.
 
 ## Runing AndusChain Geth
 
